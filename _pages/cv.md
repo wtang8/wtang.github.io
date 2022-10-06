@@ -11,30 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics (Enrichment Stream in Physics), The Chinese University of Hong Kong, 2017
+* Ph.D in Physics, Brown University, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2018 - June 2020: Ph.D. research
+  * Brown University
+  * Advisors: Nicolas Fawzi, Jeetain Mittal
+  * Molecular interactions underlying liquid-liquid phase separation of intrinsically disordered proteins
+
+* Spring 2017: Senior Project
+  * The Chinese University of Hong Kong
+  * Relaxation analysis of ribosomal P1-P2 heterodimer protein by MD simulations
+  * Advisor: Wang Yi
+
+* Fall 2016: Senior Project
+  * The Chinese University of Hong Kong
+  * Surface charge properties of persister cells
+  * Advisor: Yilin Wu
+  
+* Summer 2016: Research Intern
+  * The Chinese University of Hong Kong
+  * Surface charge properties of swarming and planktonic cells
+  * Advisor: Yilin Wu
+
+* Summer 2015: Research Intern
+  * Brown University
+  * Effect of non-ionic surfactant on swarming motility
+  * Advisor: Jay X. Tang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Physics simulations
+* Molecular dynamics
+* Statistical inference
+* Machine learning
+* Software development
 
 Publications
 ======
@@ -54,6 +68,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Other working experience
 ======
-* Currently signed in to 43 different slack teams
+* Instructor 
