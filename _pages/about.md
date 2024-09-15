@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Wai Shing Tang | Flatiron Research Fellow"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,4 @@ redirect_from:
 
 Wai Shing Tang, Ph.D.
 ======
-Flatiron Research Fellow, Structural and Molecular Biophysics Collaboration, CCM, Flatiron Institute
-
-<!-- Wai Shing Tang joined the Flatiron Institute in June 2022 as a Flatiron Research Fellow in the Center for Computational Mathematics and Structural and Molecular Biophysics (SMB) Collaboration. His research involves the development of novel mathematical and computational methods to characterize protein structural dynamics with molecular dynamics simulations. Wai holds a Ph.D. in Physics from Brown University and a B.Sc. in Physics from the Chinese University of Hong Kong. -->
-
+I am currently a Flatiron Research Fellow, Structural and Molecular Biophysics Collaboration, CCM, Flatiron Institute, New York, NY, since June 2022. My research involves the development of novel mathematical and computational methods to characterize protein structural dynamics with molecular dynamics simulations. I hold a Ph.D. in Physics from Brown University and a B.Sc. in Physics from the Chinese University of Hong Kong.
