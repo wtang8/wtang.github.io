@@ -8,7 +8,5 @@ date: 2023-11-21
 location: "Cargèse, Corsica, France"
 ---
 
-<!-- [More information here](http://exampleurl.com) -->
-
 Lecture and tutorial at Algorithms in Structural Bioinformatics: From structure resolution to dynamical modeling in cryo-electron microscopy summer school at Institute for Scientific Study (IESC), Cargèse, Corsica, France.
 
